@@ -1,0 +1,1 @@
+A really important thing to remember when writing CSS, or working on the web as a whole, is that everything displayed by CSS is a box. Whether that's a box that uses border-radius to look like a circle, or even just some text: the key thing to remember is that it's all boxes.
